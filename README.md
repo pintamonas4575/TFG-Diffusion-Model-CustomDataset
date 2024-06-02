@@ -1,4 +1,4 @@
-# Diffusion-Model-on-local-image-dataset
+# TFG-Diffusion-Model-CustomDataset
 Creación en Pytorch de un modelo de difusión para generación incondicional de imágenes con un dataset propio.
 
 Se ha creado un modelo que sigue el estándar DDIM sobre un *dataset* local de imágenes.
