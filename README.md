@@ -3,7 +3,7 @@ Creación en Pytorch de un modelo de difusión para generación incondicional de
 
 Se ha creado un modelo que sigue el estándar DDIM sobre un *dataset* local de imágenes.
 
-🙋‍♂️ Los archivos de este repositorio pertenecen al TFG de Alejandro Mendoza Medina.
+🙋‍♂️ Los archivos de este repositorio pertenecen al **TFG** de **Alejandro Mendoza Medina**.
 
 ----------------------
 
@@ -21,8 +21,8 @@ Este notebook presenta la evolución de una semilla a lo largo de los *epochs*, 
 
 En esta carpeta se encontrarán ejemplos generados por el modelo.
 
-
 # ⚖️ Licencia
+
 Hay algún proceso "difuminado" en la burocracía de España que hace que vaya muy lenta. 
 
 # 👤 Contacto
@@ -31,5 +31,3 @@ Cualquier duda o sugerencia contactar con el autor:
 
 Alejandro Mendoza: alejandro.embi@gmail.com
 
-
-⚠️⚠️ZONA EN OBRAS⚠️⚠️
